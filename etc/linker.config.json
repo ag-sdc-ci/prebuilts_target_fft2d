@@ -1,0 +1,13 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libfft2d.a-x86_64-v2.so",
+		    "libdummy_binary_libfft2d.a.so",
+		    "libdummy_ext_fft2d-x86_64-v2.so",
+		    "libdummy_ext_fft2d.so",
+		    "libdummy_headers_ext_fft2d-x86_64-v2.so",
+		    "libdummy_headers_ext_fft2d.so",
+		    "libdummy_shared_fft2d-x86_64-v2.so",
+		    "libdummy_shared_fft2d.so"
+	],
+	"visible": true
+}
